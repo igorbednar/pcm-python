@@ -1,2 +1,4 @@
 # pcm-python
-Arithmetic expression precedence climbing method parser implemented in Python
+Arithmetic expression recursive-descent parser implemented in Python.
+Supported operations are +,-,*,/
+Error checking is not implemented.
