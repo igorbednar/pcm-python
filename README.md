@@ -1,4 +1,16 @@
-# pcm-python
-Arithmetic expression recursive-descent parser implemented in Python.
-Supported operations are +,-,*,/
-Error checking is not implemented.
+#Arithmetic expression recursive-descent parser
+
+
+## How to use
+
+```py
+ parser.py "5+4*(6-3)"
+```
+
+##Supported operations 
+
+'+' '-' '*' '/'
+
+## License
+
+[MIT](LICENSE)
